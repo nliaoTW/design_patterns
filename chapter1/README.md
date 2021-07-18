@@ -1,3 +1,6 @@
-Instructions to compile and run:
-1. javac *.java
-2. java MiniDuckSimulator# design_patterns
+# Design Patterns
+## Instructions to compile and run:
+``` bash
+> javac *.java
+> java MiniDuckSimulator
+```
